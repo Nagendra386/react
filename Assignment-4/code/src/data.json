@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "name": "Siva",
+            "location": "Bengaluru",
+            "likes": 64,
+            "description": "Kick start your career",
+            "PostImage": "https://www.echoice.com.au/files/2020/12/south-port-beach-boardwalk-at-sunset-picture-id1239827155.jpg",
+            "date": "02-12-2014"
+        },
+        {
+            "name": "Neeraj",
+            "location": "Pune",
+            "likes": 45,
+            "description": "Sample Description",
+            "PostImage": "https://www.echoice.com.au/files/2020/12/south-port-beach-boardwalk-at-sunset-picture-id1239827155.jpg",
+            "date": "03-12-2014"
+        },
+        {
+            "name": "Rahul",
+            "location": "Hyderabad",
+            "likes": 30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://www.echoice.com.au/files/2020/12/south-port-beach-boardwalk-at-sunset-picture-id1239827155.jpg",
+            "date": "04-12-2014"
+        }
+    ]
+}
